@@ -1,0 +1,22 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    background: no-repeat url('../imagens/fundo-site.png');
+    background-size: cover;
+}
+
+.cabecalho {
+    background-color: red;
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    gap: 15px;
+    padding-top: 50px;
+}
+
+.cabecalho .titulo {
+    color: #f1ecff;
+}
+
+.cabecalho .pokebola{
+    
+}
